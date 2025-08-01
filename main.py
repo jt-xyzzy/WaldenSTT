@@ -13,7 +13,7 @@ from tkinter import filedialog
 
 def run():
     # user selects file
-    ftypes=(('mp3','.mp3'),('all','.*'),('m4a','.m4a'),("wav",'.wav'))
+    ftypes=(('all','.*'),('mp3','.mp3'),('m4a','.m4a'),("wav",'.wav'))
     var1=StringVar()
     fname=filedialog.askopenfilename(parent=root,initialdir = "~/Music",filetypes=ftypes,title='Select audio file',typevariable=var1)
     x = ""
