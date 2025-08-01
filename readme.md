@@ -5,6 +5,14 @@ which itself is built on  [whisper.cpp](https://github.com/ggerganov/whisper.cpp
 
 WaldenSTT was created by JT for the folks at CiTR to make it easier to autogenerate text transcriptions of podcasts.
 
+# Linux, Mac, Windows
+
+Linux users: Continue to Quick Start.
+
+Mac users: Don't have access to bash? Install homebrew
+
+Windows users: Don't have access to bash? Install WSL.
+
 # Quick Start
 
 ## Install WaldenSTT
