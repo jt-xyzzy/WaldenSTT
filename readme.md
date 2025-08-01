@@ -57,7 +57,16 @@ pip install pywhispercpp
 
 ### License
 
-WaldenSTT and pywhispercpp are under the same license as [whisper.cpp](https://github.com/ggerganov/whisper.cpp/blob/master/LICENSE) (MIT  [License](./LICENSE)).
+See [License](License.md)
+
+#### A Note on licensing: 
+WaldenSTT is built on Abdeladim Sadiki's python bindings for WhisperCPP. I wanted to make sure people using my code had access to these license details so I have included them all in one file. For any use of this code, you should refer to the previous licenses. My own (very minimal) intervention is simply an accessibility layer. It is a scholarly/pedagogical tool meant to improve access and encourage use of these tools.
+
+jt-xyzzy/WaldenSTT (CC BY)
+
+absadiki/pywhispercpp (MIT License)
+
+ggml-org/whisper.cpp (MIT License)
 
 ### Resources
 
