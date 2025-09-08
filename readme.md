@@ -1,10 +1,11 @@
 # WaldenSTT
+WaldenSTT is a graphical interface for [absadiki's pywhispercpp](https://github.com/absadiki/pywhispercpp/), a speech to text tool
+which itself is built on  [whisper.cpp](https://github.com/ggerganov/whisper.cpp)
+
 WaldenSTT was created by JT for the folks at CiTR to make it easier to autogenerate text transcriptions of their radio shows.
 
 <img src="img.png" width="30%" alt="icon">
 
-WaldenSTT is a graphical interface for [absadiki's pywhispercpp](https://github.com/absadiki/pywhispercpp/), a speech to text tool
-which itself is built on  [whisper.cpp](https://github.com/ggerganov/whisper.cpp)
 
 # Linux, Mac, Windows
 
